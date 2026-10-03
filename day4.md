@@ -106,7 +106,7 @@ Nadia Idrissi - Badge: YC-NI-04
 Cleaned name 1: sara amrani
 Cleaned name 2: omar alaoui
 Cleaned name 3: nadia idrissi
-Capitalized name 1: Sara Amrani
+Capitalized name 1: Sara Amrani|V
 Capitalized name 2: Omar Alaoui
 Capitalized name 3: Nadia Idrissi
 Initials 1: SA
